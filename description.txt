@@ -1,1 +1,3 @@
-Mouse Finder Reloaded offers various client-side visuals for keeping your cursor easily tracked by the human eye!
+Mouse Finder Reloaded offers various client-side visuals for keeping your cursor easily tracked by the human eye! Check the configuration!
+
+based on Dark-Assassin's Mouse Finder.
