@@ -1,0 +1,3 @@
+displayName = Mouse Finder Reloaded
+author = Doug
+version = 0.1
